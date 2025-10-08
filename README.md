@@ -1,2 +1,2 @@
-# Finance-App
-Student finance management web app (backend + frontend)
+# PocketHeist
+Student finance and expense management web app 
